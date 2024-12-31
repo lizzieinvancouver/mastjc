@@ -3,7 +3,7 @@ By Lizzie
 
 This folder contains notes from me and Janneke meeting in Zurich in Nov 2024 (in person!). 
 The aim was to work on text for how to test these hypothesis together for TREE paper led by JD (he asked us to work on this). 
-I was slow to get this organized, so was pressured to send text to JD in later November (text below), which I gather he did not use much, but I also sent the SNSF and he said some lines in there were sort of useful. 
+I was slow to get this organized, so was pressured to send text to JD in later December (text below), which I gather he did not use much, but I also sent the SNSF and he said some lines in there were sort of useful. 
 
 
 <><><><><><><><>
