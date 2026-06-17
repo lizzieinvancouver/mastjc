@@ -56,5 +56,5 @@ plot(x = grid, y = vpreds[grid], type = 'l',
 abline(v = which(states == 2), col = 'darkred', lty = 2 )
 
 plot(x = grid, y = vprd_sds/vfl_sds*100, type = 'l',
-     bty = 'n', ylim = c(0,100), ylab = '% seeds that escaped')
+     bty = 'n', ylim = c(0,100), ylab = '% seeds that not escaped')
 abline(v = which(states == 2), col = 'darkred', lty = 2 )
